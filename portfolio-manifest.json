@@ -1,0 +1,170 @@
+{
+  "source": {
+    "repository": "GitLab canonical source",
+    "branch": "master",
+    "commit": "34b1626c10788e355bb794d45d7aeeb74288b6c7",
+    "remoteRefCommit": "34b1626c10788e355bb794d45d7aeeb74288b6c7"
+  },
+  "export": {
+    "policy": "fixed allowlist from Git archive; clean snapshot; new Git history on first publication",
+    "omitted": [
+      "VCS history",
+      "deployment and CI configuration",
+      "internal delivery, design, and migration documents"
+    ]
+  },
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "8ce30c1ce3ba322ca1110db0b0806c6d76f0c60a238eb4d860b8ec1ca2c6da6d"
+    },
+    {
+      "path": ".nvmrc",
+      "sha256": "68ca3fba3b7e864770cb61aeb306d4bd4354b68ab4dd38450860c5d823e42a53"
+    },
+    {
+      "path": "ASSETS.md",
+      "sha256": "1ef7d691b2ee3e911b6cc7beef23dd4e8c6550842b70ff2a5c42fcebebb85a65"
+    },
+    {
+      "path": "README.md",
+      "sha256": "2f625de2923249e17735974b0a1d5607fe088bcacb113d486aa82b374f51e818"
+    },
+    {
+      "path": "index.html",
+      "sha256": "255a9b4dd81f84b71cfc262ac670faf99ddee79e5f15da72b2e53470e1dc0d0c"
+    },
+    {
+      "path": "package.json",
+      "sha256": "e83b2e2ea1e4b22c18524c76a7455184fbd16584062f3c507cb4f74714f79e8f"
+    },
+    {
+      "path": "public/apple-touch-icon-180x180.png",
+      "sha256": "c58b10ddfeeee7c8db64fbc964b9068340c55207a7b5077a8907cf24d1105af1"
+    },
+    {
+      "path": "public/fonts/OFL.txt",
+      "sha256": "f612090fb72b6dca3e807e66fa0d2b5def163cef86f1a3209b5c897cba5ee4b7"
+    },
+    {
+      "path": "public/fonts/manrope-cyrillic.woff2",
+      "sha256": "95a493061fe0a8d0d027c2892747134ba747141112d3be4d5022e70ab7d3a1a6"
+    },
+    {
+      "path": "public/fonts/manrope-latin.woff2",
+      "sha256": "e310b55a7fd9677f5e3555e6c6c4d064fa1f1d24393f0ddbe217cea12a8c432f"
+    },
+    {
+      "path": "public/images/answers/1.jpg",
+      "sha256": "d2fffb18c29dc575a7940bc64243bd99750830b372cb05a381c6fd75f67f4109"
+    },
+    {
+      "path": "public/images/answers/2.jpg",
+      "sha256": "0a4d4688a8fbba18da1c905b66e79ea407020ba73f486fc123f5bd17981701b2"
+    },
+    {
+      "path": "public/images/answers/3.jpg",
+      "sha256": "360eb383ca3ee18d8ff7d74fada241ccf8cf280b660ad352248aedf76cd6bb45"
+    },
+    {
+      "path": "public/images/answers/4.jpg",
+      "sha256": "16da8944919a088033223a5825734562947d30ebffe8f0502e80bf09e47b11a6"
+    },
+    {
+      "path": "public/maskable-icon-512x512.png",
+      "sha256": "ef8d7b3a95a138113932a53b64290b62686556ddd62c00fa2e1595744db50075"
+    },
+    {
+      "path": "public/pwa-192x192.png",
+      "sha256": "f8f82a691518a7a2efb8dd2fa39b5bd77465c29e28a8161545da62e556970482"
+    },
+    {
+      "path": "public/pwa-512x512.png",
+      "sha256": "ae3f822152c668eb5efa03b81407ff47c81f7f07c3ed7328c71e50dd50e8551b"
+    },
+    {
+      "path": "public/pwa-64x64.png",
+      "sha256": "12ff686604c407fcce81457531bb3d16e4205430c885fcd9c800b277211815c1"
+    },
+    {
+      "path": "screenshots/home.png",
+      "sha256": "2089a4965103de553b25b7edaceb4021dfba7eab8265c1bbf36f99914100f80e"
+    },
+    {
+      "path": "scripts/check-content.ts",
+      "sha256": "e0a79da83772ddea18fb7f91ed11a82e5ff3d27e67b1ff1e48d33879653d5da3"
+    },
+    {
+      "path": "scripts/check-dist.mjs",
+      "sha256": "1e8326d733f9279301800693197182cfa0baa04c54c6c11e686b630905da80d1"
+    },
+    {
+      "path": "src/App.vue",
+      "sha256": "ebf2954c77a7c8f1c8856aa3f5492abf793cf89fc5a0070c6ac08d1c25c6766b"
+    },
+    {
+      "path": "src/components/QuizView.vue",
+      "sha256": "a4444ee58b344c9c7451fc8105876ed10a8294873bcf035f32f692b1f884edb3"
+    },
+    {
+      "path": "src/components/ResultView.vue",
+      "sha256": "906240aa0fafe6cdc8e11e5f09bc64548f5da6cc47b743b443ad3ca3b248ad2f"
+    },
+    {
+      "path": "src/components/UpdateNotice.vue",
+      "sha256": "15615c13027115c9050397036183973cb20e06f67a473f6d5ab2763ea157f24d"
+    },
+    {
+      "path": "src/content/categories.json",
+      "sha256": "6a5b89e19679914a47d51cc428923ec43eb73bdb73b3e5687f0a148013a54b25"
+    },
+    {
+      "path": "src/content/index.ts",
+      "sha256": "5a3ca07eeca7c611ce5cf294502c124725d06b59ffb74b6870e912b787738dd5"
+    },
+    {
+      "path": "src/content/intro.json",
+      "sha256": "877c0eb7cfc25141cf06594e369ab6eff8c938dd0bd9fce373e51f049cae33a4"
+    },
+    {
+      "path": "src/content/questions.json",
+      "sha256": "5144a2e961ad19d31b1d34ab958bd0d642d9eca5480db33278ab6fc5414ddf48"
+    },
+    {
+      "path": "src/content/recommendations.json",
+      "sha256": "5295e0121518567c59f1295dc3e83ee9698228c2d4482235989ba5d4de9a8fd7"
+    },
+    {
+      "path": "src/domain/content.ts",
+      "sha256": "87cff1b131e277af8e201ef82d4ab587aaf9df534f9dc8e64c8505b27f7fd624"
+    },
+    {
+      "path": "src/domain/questionnaire.ts",
+      "sha256": "f29c98a6e4698d005e61ab045b85b820d8a35c2ab4203e31cabce0a3afa5956e"
+    },
+    {
+      "path": "src/main.ts",
+      "sha256": "5d2f4c0f5d289c2624f3569aea0b5a48e48cb0d22ef5f57a5ba47d64a0ec7969"
+    },
+    {
+      "path": "src/style.css",
+      "sha256": "118d6666a3386a368d5a25e85a50209c95a4be67eb1796b3e209eeec7d98327e"
+    },
+    {
+      "path": "tests/questionnaire.test.ts",
+      "sha256": "ced398bee5e239640de8e8da57e21e18b0453e47259e1eb1dba0fe7ff40385dc"
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "b242c87d46e67b566d807598607168e854a58bfd3b774e694daf7e3b6057bbc8"
+    },
+    {
+      "path": "vite.config.ts",
+      "sha256": "d9d5c7333680ba95ec4848dfa0777f6c3c7d36220dc3faf98befae59fc2f11d8"
+    },
+    {
+      "path": "yarn.lock",
+      "sha256": "8f31fc1edb15bcff5b1810d7defd0b1ef4af1c258c452fa668a27fb3506a9596"
+    }
+  ]
+}

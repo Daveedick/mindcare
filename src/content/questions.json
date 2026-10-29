@@ -1,0 +1,2765 @@
+[
+  {
+    "id": "question-1",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "Мне легко удается отложить телефон, когда очень хочется спать",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-1-option-1",
+        "label": "Да, у меня нет с этим проблем",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-1-option-2",
+        "label": "Могу отложить, когда чувствую, что уже вырубаюсь",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-1-option-3",
+        "label": "Отрываюсь от телефона с большим трудом",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-1-option-4",
+        "label": "Сижу в телефоне допоздна, могу заснуть с ним в руках",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-2",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "Даже если мне понравилось какое-то блюдо, вряд ли я буду есть его каждый день",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-2-option-1",
+        "label": "Да, я люблю питаться разнообразно",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-2-option-2",
+        "label": "Я начну чаще есть это блюдо, но не каждый день",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-2-option-3",
+        "label": "Я понимаю, что есть и другие вкусные блюда, но это мне будет хотеться постоянно",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-2-option-4",
+        "label": "Я могу зациклиться на любимой еде и есть ее на постоянной основе",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-3",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "У меня нет проблем с выбором. Не имеет значения: покупка одежды или заказ еды в ресторане, я понимаю, чего хочу",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-3-option-1",
+        "label": "Я быстро совершаю выбор",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-3-option-2",
+        "label": "Я могу взвесить все за и против, но долго не думаю над выбором",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-3-option-3",
+        "label": "Я долго советуюсь с другими людьми насчет выбора",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-3-option-4",
+        "label": "Мне очень сложно совершать выбор, для меня это мучительное решение",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-4",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "У меня есть любимая песня, но я не готов слушать ее на постоянной основе",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-4-option-1",
+        "label": "Да, есть много других замечательных песен",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-4-option-2",
+        "label": "Я с радостью поделюсь этой песней с друзьями, но прям заслушивать не буду",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-4-option-3",
+        "label": "Эта песня попадет в мой постоянный плейлист",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-4-option-4",
+        "label": "Я не успокоюсь, пока не заслушаю эту песню до дыр",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-5",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "В выходные мне сложно просто лежать и смотреть сериалы. Обязательно ищу, чем заняться, даже если будни были непростыми",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-5-option-1",
+        "label": "Да, я люблю проводить время с пользой",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-5-option-2",
+        "label": "Я успею и отдохнуть, и сделать пару важных дел",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-5-option-3",
+        "label": "Мне сложно заставлять себя заниматься делами по выходным",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-5-option-4",
+        "label": "Выходные даны нам для отдыха, никаких дел",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-6",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "После стакана матчи я чувствую себя спокойнее",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-6-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-6-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-6-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-6-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-7",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "Мне легко чувствовать спокойствие, зная, что впереди меня ждут большие проекты и серьезные задачи",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-7-option-1",
+        "label": "Да, я люблю рабочий настрой",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-7-option-2",
+        "label": "Скорее почувствую себя энергично, чем спокойно",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-7-option-3",
+        "label": "Дела меня немного удручают, вряд ли я буду спокоен",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-7-option-4",
+        "label": "Серьезные задачи вызывают у меня беспокойство",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-8",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "Не люблю совмещать чтение книги и просмотр сериала. Лучше концентрироваться на одном деле",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-8-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-8-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-8-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-8-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-9",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "Я люблю доделывать работу до конца, не люблю чувство незавершенности",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-9-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-9-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-9-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-9-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-10",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "Не понимаю людей, которые чувствуют вину за излишний сон или отдых",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-10-option-1",
+        "label": "Да, организму нужно давать время на восстановление",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-10-option-2",
+        "label": "Отоспаться после тяжелой недели - нормально",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-10-option-3",
+        "label": "Вину чувствовать не нужно, но всему есть мера",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-10-option-4",
+        "label": "Я сам виню себя за подобное",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-11",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "Мне не нужны четкие дедлайны, чтобы выполнить задачу",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-11-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-11-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-11-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-11-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-12",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "Я замечаю, что о своих планах лучше молчать, иначе они не сбываются",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-12-option-1",
+        "label": "Да, лучше концентрироваться на деле и не распыляться",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-12-option-2",
+        "label": "Я не думаю об этом",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-12-option-3",
+        "label": "Я замечаю такую закономерность, но не придаю ей значение, это совпадение",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-12-option-4",
+        "label": "Я люблю рассказывать о своих планах, это не мешает их выполнению",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-13",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "Когда меня что-то пугает, я стараюсь не читать статьи/новости на эту тему",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-13-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-13-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-13-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-13-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-14",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "Мне не интересно наблюдать за людьми, которые едят на камеру",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-14-option-1",
+        "label": "Да, не вижу в этом смысла",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-14-option-2",
+        "label": "Считаю это отвратительным зрелищем",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-14-option-3",
+        "label": "Сам не смотрю, но понимаю людей, которым нравится",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-14-option-4",
+        "label": "Мне нравятся ролики такого характера",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-15",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "Я помогу поднять женщине коляску по лестнице, даже если смертельно опаздываю",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-15-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-15-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-15-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-15-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-16",
+    "categoryId": "emotion",
+    "active": true,
+    "text": " с радостью хорошо ем, даже если день выдался пассивным",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-16-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-16-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-16-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-16-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-17",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "Я редко ударяюсь или ранюсь обо что-то",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-17-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-17-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-17-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-17-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-18",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "Я считаю небольшое воровство в магазине или неоплаченный счет в ресторане забавным развлечением",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-18-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-18-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-18-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-18-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-19",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "Я бы предпочел завтрак за шведским столом, а не в номере отеля",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-19-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-19-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-19-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-19-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-20",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "Я могу полноценно и спокойно есть в присутствии родителей, парня или друзей",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-20-option-1",
+        "label": "Да, это же естественно",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-20-option-2",
+        "label": "Да, но не перед всеми людьми мне комфортно есть",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-20-option-3",
+        "label": "Нет, но я могу пересилить себя",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-20-option-4",
+        "label": "Нет, я избегаю таких ситуаций",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-21",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "Я чувствую себя уверенно при нахождении в незнакомой компании",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-21-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-21-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-21-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-21-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-22",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "Я считаю очень важным делать людям комплименты ",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-22-option-1",
+        "label": "Да, мне нравится радовать людей",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-22-option-2",
+        "label": "Да, но иногда это неуместно",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-22-option-3",
+        "label": "Нет, это необязательно",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-22-option-4",
+        "label": "Нет, комплименты кажутся мне нелепой лестью",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-23",
+    "categoryId": "emotion",
+    "active": true,
+    "text": "Я могу спокойно стоять в вагоне метро, не держась за поручни",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-23-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "emotion-1"
+      },
+      {
+        "id": "question-23-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "emotion-2"
+      },
+      {
+        "id": "question-23-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "emotion-3"
+      },
+      {
+        "id": "question-23-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "emotion-4"
+      }
+    ]
+  },
+  {
+    "id": "question-65",
+    "categoryId": "safety",
+    "active": true,
+    "text": "Я довольно легко могу почувствовать каждую клеточку моего тела",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-65-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-65-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-65-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-65-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-66",
+    "categoryId": "safety",
+    "active": true,
+    "text": "Я замечаю, что просыпаюсь уже с тревогой",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-66-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-66-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-66-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-66-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-67",
+    "categoryId": "safety",
+    "active": true,
+    "text": "На протяжении дня я часто чувствую себя скованно",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-67-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-67-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-67-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-67-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-68",
+    "categoryId": "safety",
+    "active": true,
+    "text": "Я ощущаю напряжение в диафрагме",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-68-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-68-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-68-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-68-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-69",
+    "categoryId": "safety",
+    "active": true,
+    "text": "Иногда у меня резко начинает чесаться тело без объяснимой причины",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-69-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-69-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-69-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-69-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-70",
+    "categoryId": "safety",
+    "active": true,
+    "text": "Я не люблю садиться в середине вагона метро",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-70-option-1",
+        "label": "Да, меня это сильно напрягает",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-70-option-2",
+        "label": "Да, но если не будет выбора - я сяду",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-70-option-3",
+        "label": "Нет, но у выхода удобнее сидеть",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-70-option-4",
+        "label": "Для меня место посадки не имеет значения",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-71",
+    "categoryId": "safety",
+    "active": true,
+    "text": "Я чувствую, что мне нужно больше еды, чем раньше",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-71-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-71-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-71-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-71-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-72",
+    "categoryId": "safety",
+    "active": true,
+    "text": "У меня есть страх не наесться, даже когда порция довольно большая",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-72-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-72-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-72-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-72-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-73",
+    "categoryId": "safety",
+    "active": true,
+    "text": "Мне сложно провести день вне дома, не покупая кофе или другие напитки",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-73-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-73-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-73-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-73-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-74",
+    "categoryId": "safety",
+    "active": true,
+    "text": "Мне нравится крутить прядь волос на пальце/щупать бороду",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-74-option-1",
+        "label": "Да, это меня успокаивает",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-74-option-2",
+        "label": "Да, но я делаю это неосознанно",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-74-option-3",
+        "label": "Я не обращаю на это внимания",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-74-option-4",
+        "label": "Зачастую не трогаю волосы/бороду руками",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-75",
+    "categoryId": "safety",
+    "active": true,
+    "text": "Мне часто хочется поболтать ногой, это расслабляет и веселит",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-75-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-75-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-75-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-75-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-76",
+    "categoryId": "safety",
+    "active": true,
+    "text": "Я привык грызть губы и щеки",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-76-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-76-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-76-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-76-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-77",
+    "categoryId": "safety",
+    "active": true,
+    "text": "Для меня характерно большое воодушевление, если мне предстоит какой-то очень интересный проект: легко могу не спать ночами",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-77-option-1",
+        "label": "Да, новые проекты меня очень будоражат",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-77-option-2",
+        "label": "Сну воодушевление не помешает, но я буду перевозбужден",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-77-option-3",
+        "label": "Все зависит от проекта, но вряд ли я буду переполнен эмоциями",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-77-option-4",
+        "label": "Я воодушевлюсь, но останусь спокойным",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-78",
+    "categoryId": "safety",
+    "active": true,
+    "text": "Мне некомфортно на улице без газового баллончика или другой защиты",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-78-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-78-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-78-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-78-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-79",
+    "categoryId": "safety",
+    "active": true,
+    "text": "Я люблю спать с одеялом на голове",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-79-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-79-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-79-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-79-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-80",
+    "categoryId": "safety",
+    "active": true,
+    "text": "Мне кажется, в последнее время окружающие смотрят на меня с беспокойством",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-80-option-1",
+        "label": "Да, я ощущаю взгляды со стороны",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-80-option-2",
+        "label": "Такое бывает, но не слишком часто",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-80-option-3",
+        "label": "Я такого не замечал",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-80-option-4",
+        "label": "Нет, такого никогда не происходит",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-81",
+    "categoryId": "safety",
+    "active": true,
+    "text": "Иногда мне кажется, что я вижу нечто потустороннее",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-81-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-81-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-81-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-81-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-82",
+    "categoryId": "safety",
+    "active": true,
+    "text": "У меня бывали эпизоды лунатизма",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-82-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-82-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-82-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-82-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-83",
+    "categoryId": "safety",
+    "active": true,
+    "text": "Я принимаю специальные витамины, чтобы уснуть",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-83-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-83-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-83-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-83-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-84",
+    "categoryId": "safety",
+    "active": true,
+    "text": "Было бы здорово вновь не выходить из дома, как во время пандемии",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-84-option-1",
+        "label": "Да, дома мне спокойнее",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-84-option-2",
+        "label": "Хочу иметь возможность сидеть дома, когда захочу, но не на постоянной основе",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-84-option-3",
+        "label": "Нет, те времена меня удручали",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-84-option-4",
+        "label": "Точно нет, не могу жить в изоляции без социума",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-85",
+    "categoryId": "safety",
+    "active": true,
+    "text": "Я часто ловлю себя на мысли, что хочу посмотреть мультики, поиграть или просто вернуть что-то из детства",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-85-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-85-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-85-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-85-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-86",
+    "categoryId": "safety",
+    "active": true,
+    "text": "Я иногда вижу сны об ограблении, взломе квартиры или покушении на мою жизнь",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-86-option-1",
+        "label": "Да, причем довольно часто",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-86-option-2",
+        "label": "Мне иногда снятся такие кошмары",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-86-option-3",
+        "label": "Мне редко снится подобное",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-86-option-4",
+        "label": "Не могу припомнить такие сны",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-87",
+    "categoryId": "safety",
+    "active": true,
+    "text": "У меня есть лишний вес",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-87-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-87-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-87-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-87-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-88",
+    "categoryId": "safety",
+    "active": true,
+    "text": "Я постоянно чем-то болею",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-88-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "safety-1"
+      },
+      {
+        "id": "question-88-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "safety-2"
+      },
+      {
+        "id": "question-88-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "safety-3"
+      },
+      {
+        "id": "question-88-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "safety-4"
+      }
+    ]
+  },
+  {
+    "id": "question-90",
+    "categoryId": "past",
+    "active": true,
+    "text": "Я часто спрашиваю мнение окружающих прежде, чем принять решение",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-90-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-90-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-90-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-90-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-91",
+    "categoryId": "past",
+    "active": true,
+    "text": "Я стараюсь не показывать свои эмоции",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-91-option-1",
+        "label": "Да, эмоции делают меня слабым",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-91-option-2",
+        "label": "Да, но не всегда получается",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-91-option-3",
+        "label": "Нет, но я стараюсь иногда держать себя в рамках",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-91-option-4",
+        "label": "Нет, эмоции - это нормально",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-92",
+    "categoryId": "past",
+    "active": true,
+    "text": "Я скорее обвиню других, чем позволю уличить себя",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-92-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-92-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-92-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-92-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-93",
+    "categoryId": "past",
+    "active": true,
+    "text": "Я дисциплинированный человек, но для этого мне приходится всегда держать себя в рамках",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-93-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-93-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-93-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-93-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-94",
+    "categoryId": "past",
+    "active": true,
+    "text": "Я лучше всего работаю, когда на меня оказывают сильное давление",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-94-option-1",
+        "label": "Да, это держит меня в тонусе",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-94-option-2",
+        "label": "Да, но меня это напрягает",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-94-option-3",
+        "label": "Нет, сильное давление меня бесит",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-94-option-4",
+        "label": "Нет, я сам могу справиться, давление только негативно влияет на мою продуктивность",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-95",
+    "categoryId": "past",
+    "active": true,
+    "text": "Я испытываю проблемы с ощущением близости к тем людям, о которых забочусь",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-95-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-95-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-95-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-95-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-96",
+    "categoryId": "past",
+    "active": true,
+    "text": "Я почти никогда не попадаю в ситуации, которые заранее не были мною продуманы",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-96-option-1",
+        "label": "Да, я всегда тщательно продумываю все возможные сценарии",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-96-option-2",
+        "label": "Да, но я чувствую, что из-за этого часто накручиваю себя",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-96-option-3",
+        "label": "Нет, мне не нравится настраивать себя на плохое",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-96-option-4",
+        "label": "Нет, я никогда ничего не продумываю",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-97",
+    "categoryId": "past",
+    "active": true,
+    "text": "Я не люблю думать о своих ошибках",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-97-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-97-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-97-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-97-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-98",
+    "categoryId": "past",
+    "active": true,
+    "text": "Меня раздражают люди, находящиеся в нетрезвом виде",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-98-option-1",
+        "label": "Да, более того, они меня сильно пугают",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-98-option-2",
+        "label": "Да, меня бесит поведение пьяного человека",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-98-option-3",
+        "label": "Зависит от ситуации, где я встретил нетрезвого человека",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-98-option-4",
+        "label": "Такие люди меня не раздражают, это их дело",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-99",
+    "categoryId": "past",
+    "active": true,
+    "text": "Я нуждаюсь в ком-то, кто меня бы увлекал",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-99-option-1",
+        "label": "Да, у меня часто появляются новые обсессии",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-99-option-2",
+        "label": "Мне нравится, когда у меня на постоянной основе есть увлечение другим человеком",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-99-option-3",
+        "label": "Мне мешают такого рода чувства",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-99-option-4",
+        "label": "Я не нуждаюсь в увлечениях, но иногда они происходят, и это нормально\n",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-100",
+    "categoryId": "past",
+    "active": true,
+    "text": "Я чрезвычайно редко приглашаю знакомых к себе в гости",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-100-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-100-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-100-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-100-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-101",
+    "categoryId": "past",
+    "active": true,
+    "text": "У меня не очень хорошая память, детство я помню только в общих чертах",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-101-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-101-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-101-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-101-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-102",
+    "categoryId": "past",
+    "active": true,
+    "text": "Иногда я испытываю большее сочувствие к животным, чем к людям",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-102-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-102-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-102-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-102-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-103",
+    "categoryId": "past",
+    "active": true,
+    "text": "Я могу свалить вину на другого человека и не пожалеть об этом",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-103-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-103-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-103-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-103-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-104",
+    "categoryId": "past",
+    "active": true,
+    "text": "Я склонен к повторному обдумыванию своих решений",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-104-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-104-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-104-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-104-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-105",
+    "categoryId": "past",
+    "active": true,
+    "text": "Мнение, что нападение - лучшая защита, верное",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-105-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-105-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-105-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-105-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-106",
+    "categoryId": "past",
+    "active": true,
+    "text": "Я считаю, что необязательно относиться уважительно ко всем мнениям людей",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-106-option-1",
+        "label": "Да, некоторые мнения не заслуживают уважения",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-106-option-2",
+        "label": "Я стараюсь быть толерантным ко всем, но не всегда удается",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-106-option-3",
+        "label": "Если я с кем-то не согласен - это нормально, мы все разные",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-106-option-4",
+        "label": "Я уважаю всех людей и все мнения",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-107",
+    "categoryId": "past",
+    "active": true,
+    "text": "Меня не возмущает, когда кто-то случайно толкает меня в транспорте или общественном месте",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-107-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-107-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-107-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-107-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-108",
+    "categoryId": "past",
+    "active": true,
+    "text": "Стоит избегать открытых конфликтов с людьми, потому что сотрудничество с ними может пригодиться мне в будущем",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-108-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-108-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-108-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-108-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-109",
+    "categoryId": "past",
+    "active": true,
+    "text": "В компаниях без меня скучно",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-109-option-1",
+        "label": "Да, потому что я - душа компаний и могу растрясти любую встречу/вечеринку",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-109-option-2",
+        "label": "Без меня явно менее весело",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-109-option-3",
+        "label": "Зависит от компании и моего настроя",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-109-option-4",
+        "label": "Люди могут веселиться без меня, я не центр вселенной",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-110",
+    "categoryId": "past",
+    "active": true,
+    "text": "Лесть - хороший способ привлечь людей на свою сторону",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-110-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-110-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-110-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-110-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-111",
+    "categoryId": "past",
+    "active": true,
+    "text": "Я могу искренне радоваться неудачам других людей",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-111-option-1",
+        "label": "Да, я могу позлорадствовать",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-111-option-2",
+        "label": "Некоторые люди действительно заслуживают неудач",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-111-option-3",
+        "label": "Радоваться не буду, но неудачи неизбежны",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-111-option-4",
+        "label": "Я не могу радоваться чужому горю",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-112",
+    "categoryId": "past",
+    "active": true,
+    "text": "Я боюсь стать похожим на своих родителей",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-112-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-112-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-112-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-112-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-113",
+    "categoryId": "past",
+    "active": true,
+    "text": "Меня упрекали за слезы",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-113-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "past-1"
+      },
+      {
+        "id": "question-113-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "past-2"
+      },
+      {
+        "id": "question-113-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "past-3"
+      },
+      {
+        "id": "question-113-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "past-4"
+      }
+    ]
+  },
+  {
+    "id": "question-114",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Если бы у меня всегда была необходимая сумма денег, я бы предпочел не работать",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-114-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-114-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-114-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-114-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-115",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Из меня мог бы выйти неплохой актер",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-115-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-115-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-115-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-115-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-116",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Я боюсь изменений и нововведений",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-116-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-116-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-116-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-116-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-117",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Ваш круг общения состоит из...",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-117-option-1",
+        "label": "Людей ниже меня по статусу",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-117-option-2",
+        "label": "Людей одного уровня со мной",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-117-option-3",
+        "label": "Людей выше меня по статусу",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-117-option-4",
+        "label": "Мой круг общения разнороден",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-118",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Мне сложно отказать в помощи другу или родственнику",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-118-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-118-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-118-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-118-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-119",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Я считаю, что талантливым людям очень повезло, ведь они уже знают в чем надо самореализовываться",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-119-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-119-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-119-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-119-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-120",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Настоящих высот можно добиться только через связи",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-120-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-120-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-120-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-120-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-121",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "В детстве родители не позволяли мне самостоятельно принимать важные решения",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-121-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-121-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-121-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-121-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-122",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Ваше стремление к постоянному личностному росту побуждается желанием быть полезным людям",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-122-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-122-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-122-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-122-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-123",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Большая часть вашей деятельности продиктована необходимостью и обязательствами",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-123-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-123-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-123-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-123-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-124",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Вы считаете, что общественная деятельность не для вас, так как нужны хорошие организаторские способности, которыми вы не обладаете",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-124-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-124-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-124-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-124-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-125",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Общественно полезный труд как форма самовыражения - это примитивно и малопривлекательно",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-125-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-125-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-125-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-125-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-126",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Я не люблю, когда со мной делятся непрошенными советами",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-126-option-1",
+        "label": "Да, меня это бесит",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-126-option-2",
+        "label": "Мне не нужны советы, я сам могу со всем справиться",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-126-option-3",
+        "label": "Зависит от человка, который дает советы",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-126-option-4",
+        "label": "Я адекватно реагирую на любые критику и предложения",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-127",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Я не уверен, что маленькая версия меня обрадовалась бы тому, что со мной стало",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-127-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-127-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-127-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-127-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-128",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Я постесняюсь не заплатить за некачественно оказанную услугу",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-128-option-1",
+        "label": "Я в любом случае заплачу",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-128-option-2",
+        "label": "Заплачу, скрепя зубами",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-128-option-3",
+        "label": "Я скорее всего заплачу, но выскажу недовольство",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-128-option-4",
+        "label": "Я не буду платить в такой ситуации",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-129",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Вам трудно определиться, в какой сфере вы могли бы себя выразить и добиться успеха",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-129-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-129-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-129-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-129-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-130",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Я не уверен, что самосовершенствование личности зависит исключительно от самого человека, обстоятельства тоже играют важную  роль",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-130-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-130-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-130-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-130-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-131",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Мне сложно назвать себя успешным человеком",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-131-option-1",
+        "label": "Я считаю себя неуспешным и несостоявшимся человеком",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-131-option-2",
+        "label": "Я не достиг никакого успеха, но пока рано ставить на себе крест",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-131-option-3",
+        "label": "Я считаю, что пока сложно об этом судить",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-131-option-4",
+        "label": "Я думаю, я успешен",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-132",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Я не могу признать, что многие люди из моей профессиональной среды более компетенты, чем я",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-132-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-132-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-132-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-132-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-133",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Мне сложно совмещать романтические отношения с работой",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-133-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-133-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-133-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-133-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-134",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Я не доволен своим финансовым состоянием на сегодняшний день",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-134-option-1",
+        "label": "Да, мне всегда не хватает на жизнь",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-134-option-2",
+        "label": "Хотелось бы зарабатывать больше",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-134-option-3",
+        "label": "Мне всего достаточно, но я знаю, что могу достичь большего",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-134-option-4",
+        "label": "Я доволен своим финансовым состоянием",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-135",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Считаете ли вы взрослых людей, живущих с родителями, неуспешными и нереализованными?",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-135-option-1",
+        "label": "Да, успешный человек всегда полностью релоцируется",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-135-option-2",
+        "label": "Я считаю это как минимум странным",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-135-option-3",
+        "label": "Для меня нормально, человек живет так, как ему удобно",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-135-option-4",
+        "label": "Я думаю, что в жизни бывают разные ситуации, жизнь с родителями не делает человека менее успешным",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-136",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Я согласен с утверждением, что троишники становятся успешнее отличников, потому что с детства научились выкручиваться",
+    "type": "text",
+    "options": [
+      {
+        "id": "question-136-option-1",
+        "label": "Точно да",
+        "recommendationGroupId": "fulfillment-1"
+      },
+      {
+        "id": "question-136-option-2",
+        "label": "Скорее да",
+        "recommendationGroupId": "fulfillment-2"
+      },
+      {
+        "id": "question-136-option-3",
+        "label": "Скорее нет",
+        "recommendationGroupId": "fulfillment-3"
+      },
+      {
+        "id": "question-136-option-4",
+        "label": "Точно нет",
+        "recommendationGroupId": "fulfillment-4"
+      }
+    ]
+  },
+  {
+    "id": "question-137",
+    "categoryId": "fulfillment",
+    "active": true,
+    "text": "Выберите изображение:",
+    "type": "image",
+    "options": [
+      {
+        "id": "question-137-option-1",
+        "label": "Вариант 1",
+        "recommendationGroupId": "fulfillment-1",
+        "image": "/images/answers/1.jpg",
+        "imageAlt": "Симметричное тёмное пятно с широкими краями на бежевом фоне"
+      },
+      {
+        "id": "question-137-option-2",
+        "label": "Вариант 2",
+        "recommendationGroupId": "fulfillment-2",
+        "image": "/images/answers/2.jpg",
+        "imageAlt": "Симметричное тёмное пятно с плотной серединой на светлом фоне"
+      },
+      {
+        "id": "question-137-option-3",
+        "label": "Вариант 3",
+        "recommendationGroupId": "fulfillment-3",
+        "image": "/images/answers/3.jpg",
+        "imageAlt": "Симметричное серое пятно на белом фоне"
+      },
+      {
+        "id": "question-137-option-4",
+        "label": "Вариант 4",
+        "recommendationGroupId": "fulfillment-4",
+        "image": "/images/answers/4.jpg",
+        "imageAlt": "Симметричные чёрные и красные пятна на светлом фоне"
+      }
+    ]
+  }
+]
